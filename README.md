@@ -1,4 +1,4 @@
-Página de Noticias de Anime
+<h1 aling="center">Página de Noticias de Anime</h1>
 
 Este es el avance final sobre esta página web que trata sobre una temática de noticias sobre el mundo del anime, manga y videojuegos.
 
